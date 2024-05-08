@@ -15,7 +15,7 @@ Para probar este proyecto en tu computadora localmente, sigue estos pasos:
 1. Clona este repositorio en tu máquina:
 
    ```bash
-   git clone https://github.com/Tony1406/Proyecto-codigoCesar/tree/main
+   git clone https://github.com/Tony1406/Proyecto-codigoCesar
 
 
 ## Contacto
